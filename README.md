@@ -6,6 +6,7 @@ https://www.youtube.com/playlist?list=PLF4_wFi7wHfLvnt7yUiuyN4xtNH0Pf-x7
 
 
 ## The slide deck is here
+Session1: https://www.slideshare.net/slideshow/introduction-to-data-science-and-its-scope/269643319
 Session2 :   https://www.slideshare.net/slideshow/importance-of-data-science-in-modern-business-environments/271360287
 
 
